@@ -1,1 +1,1 @@
-# Finetune SeamlessM4T on Cantonese and inference WebUI
+# Finetune SeamlessM4T on Cantonese and WebUI
